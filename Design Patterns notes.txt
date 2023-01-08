@@ -1,0 +1,14 @@
+1-Solid  principles
+2-factory 
+3-abstract factory
+4-singleton
+
+
+Solid Principles :
+
+S-stands for single responsibility principle for example one class should have one responsibility like calories
+o-stand for open closed principle  open for extension and closed for module  
+L- stand for liskov substituion principle should not change behaviour of parent class or function in chilld class while extending parent class
+i-interface segegration principle Parent class only contain main features  if the child class want anyother method  the anyothermethod class extend parent class and that child class is extend by our child class
+d- dependency inversion principle  The Dependency Inversion Principle states that entities must depend on abstractions
+
